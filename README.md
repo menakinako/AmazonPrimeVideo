@@ -1,5 +1,5 @@
 # Amazon Prime Video
-Clone of Amazon Prime Video which is a subscription video 
+Amazon Prime Video Clone is a subscription video build in Mern stack where the user can login to watch any movies, tvshow etc.. of his/her choice.
 
 Have a Look at the app<a href="https://primevideoamazon.herokuapp.com/"> amazon prime video</a>
 
